@@ -1,2 +1,3 @@
-# backstage-plugin-buildkite-metrics
-Plugin to show Buildkite build metrics for a given pipeline
+# Buildkite Metrics
+
+Plugin that provides a card to display Buildkite pipeline metrics.
